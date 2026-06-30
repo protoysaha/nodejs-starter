@@ -3,7 +3,7 @@
 
 Nodejs Starter is a boilerplate for Node.js web applications built with:
 
-MongoDB - A document-oriented, No-SQL database used to store the application data.
+MYSQL -  SQL database used to store the application data.
 ExpressJS - fast node.js network app framework.
 nodeJS - A JavaScript runtime built on Chrome's V8 JavaScript engine
 Authentication with jsonwebtoken
